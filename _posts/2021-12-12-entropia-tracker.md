@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Entropia Tracker
+title: Entropia Tracker public release
 categories: [News, Entropia Universe]
 ---
 
-First post
+It has been released 🥳
