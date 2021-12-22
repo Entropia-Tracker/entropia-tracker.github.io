@@ -16,3 +16,10 @@ Entropia Tracker is a tracking software for the MMO Entropia Universe. Initially
 - Loot item graph
 - Single time runs, multiple grouped runs, continue on old runs
 - Saves data historically
+
+## Images
+
+![](/images/example-image-1.png)
+![](/images/example-image-2.png)
+![](/images/example-image-3.png)
+![](/images/example-image-4.png)
