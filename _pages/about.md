@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Entropia Tracker is a tracking software for the MMO Entropia Universe. Initially focused on hunting.
+Entropia Tally is a tracking software for the MMO Entropia Universe. Initially focused on hunting.
 
 ## Features
 
@@ -16,10 +16,13 @@ Entropia Tracker is a tracking software for the MMO Entropia Universe. Initially
 - Loot item graph
 - Single time runs, multiple grouped runs, continue on old runs
 - Saves data historically
+- Weapon sets
+- Show hunting returns
 
 ## Images
 
-![](/images/example-image-1.png)
-![](/images/example-image-2.png)
-![](/images/example-image-3.png)
-![](/images/example-image-4.png)
+![](/images/example_1.png)
+![](/images/example_2.png)
+![](/images/example_3.png)
+![](/images/example_4.png)
+![](/images/example_5.png)

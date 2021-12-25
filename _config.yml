@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Entropia Tracker
+name: Entropia Tally
 
 # Name of the author
-author: Entropia Tracker
+author: Entropia Tally
 
 # Short bio or description (displayed in the header)
 description: Tracking software for Entropia Universe
@@ -24,7 +24,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: Entropia-Tracker
+  github: EntropiaTally
   instagram:
   linkedin: 
   pinterest:
@@ -48,8 +48,8 @@ disqus:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://entropia-tracker.github.io
-enforce_ssl: https://entropia-tracker.github.io
+url: http://entropiatally.github.io
+enforce_ssl: https://entropiatally.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
