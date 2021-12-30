@@ -26,18 +26,26 @@ If you are running a portable version you can run them without installing.
 
 ### Step 3) Configure Entropia Tally
 
-### 1. Locate your Entropia Universe `chat.log` file.
+#### 1. Locate your Entropia Universe `chat.log` file.
 
-Windows
-   - Usually located `C:\Users\<username>\Documents\Entropia Universe\chat.log`
+**Windows**
 
-GNU/Linux
-   - Usually located: `<wineprefix>/drive_c/users/<username>/My Documents/Entropia Universe/chat.log`
+```
+C:\Users\<username>\Documents\Entropia Universe\chat.log
+```
 
-### 2. Add full avatar name
+**GNU/Linux**
+
+
+```
+<wineprefix>/drive_c/users/<username>/My Documents/Entropia Universe/chat.log
+```
+
+#### 2. Add full avatar name
 
 Will enable you to track additional data (globals, hofs and rare items)
 
-### 3. Add your weapon sets
+#### 3. Add your weapon sets
 
-Will enable you to track hunting returns
+Will enable you to track hunting returns.
+Get your weapon setup cost from the [EntropiaWiki Weapon Compare tool](http://www.entropiawiki.com/WeaponCompareV2.aspx)
