@@ -4,7 +4,7 @@ title: Getting started with Entropia Tally
 permalink: /getting-started/
 ---
 
-### Step 1) Download and install
+## Step 1) Download and install
 
 [Download](https://github.com/EntropiaTally/entropia-tally-app/releases/latest) the latest release from our github page.
 
@@ -16,7 +16,7 @@ permalink: /getting-started/
 - AppImage **(automatic update support)**
 - Debian package (Debian/Ubuntu/Pop!_OS/Linux Mint...)
 
-### Step 2) Install and run
+## Step 2) Install and run
 
 If you are using an installable version proceed through the installation and start the Entropia Tally as you normally would.
 
@@ -24,9 +24,9 @@ If you are running a portable version you can run them without installing.
 
 *The AppImage needs to be [made executable](http://discourse.appimage.org/t/how-to-make-an-appimage-executable/80) after download.*
 
-### Step 3) Configure Entropia Tally
+## Step 3) Configure Entropia Tally
 
-#### 1. Locate your Entropia Universe `chat.log` file.
+#### 1. Locate your Entropia Universe chat.log file.
 
 **Windows**
 
