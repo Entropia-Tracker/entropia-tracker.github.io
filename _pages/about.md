@@ -8,22 +8,23 @@ Entropia Tally is a tracking software for the MMO Entropia Universe. Initially f
 
 ## Features
 
-- Keep track of
-  - All loot 
-  - Globals, hofs and rare items
-  - Attributes and skill gains
-  - Attack, defense and heal statistics
-- Loot item graph
-- Single time runs, multiple grouped runs, continue on old runs
+- Keeps track of
+  - Loot, Globals, HoFs and rare items
+  - Attributes & Skills
+  - Offense & Defense statistics
+- Simple item loot graphs
+- Stats for multiple runs
 - Saves data historically
 - Weapon sets
-- Show hunting returns
-- Hunting notes connected to sessions
+- Hunting returns
+- Hunting notes
+- Overlay
 
 ## Images
 
-![](/images/example_1.png)
-![](/images/example_2.png)
-![](/images/example_3.png)
-![](/images/example_4.png)
-![](/images/example_5.png)
+![](/images/tally_loot.png)
+![](/images/tally_stats.png)
+![](/images/tally_returns.png)
+![](/images/tally_session_history.png)
+![](/images/tally_history.png)
+![](/images/tally_overlay.png)

@@ -10,7 +10,7 @@ permalink: /getting-started/
 
 (You can also clone the [github repository](https://github.com/EntropiaTally/entropia-tally-app/) and build it yourself)
 
-*GNU/Linux and Windows versions available.*
+**Versions available**
 - Windows installer **(automatic update support)**
 - Windows portable
 - AppImage **(automatic update support)**
@@ -26,8 +26,18 @@ If you are running a portable version you can run them without installing.
 
 ### Step 3) Configure Entropia Tally
 
-1. To use Entropia Tally you need to locate your Entropia Universe `chat.log` file in the settings.
-   - For Windows, usually located `C:\Users\<username>\Documents\Entropia Universe\chat.log`
-   - For Wine, usually located: `<wineprefix>/drive_c/users/<username>/My Documents/Entropia Universe/chat.log`
-2. Full avatar name, to track additional data (globals, hofs and rare items)
-3. Add your weapon sets to track returns
+### 1. Locate your Entropia Universe `chat.log` file.
+
+Windows
+   - Usually located `C:\Users\<username>\Documents\Entropia Universe\chat.log`
+
+GNU/Linux
+   - Usually located: `<wineprefix>/drive_c/users/<username>/My Documents/Entropia Universe/chat.log`
+
+### 2. Add full avatar name
+
+Will enable you to track additional data (globals, hofs and rare items)
+
+### 3. Add your weapon sets
+
+Will enable you to track hunting returns
