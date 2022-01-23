@@ -13,6 +13,7 @@ Entropia Tally is a tracking software for the MMO Entropia Universe. Initially f
   - Attributes & Skills
   - Offense & Defense statistics
   - Enhancer breaks & Tier increases
+  - Kill count
 - Simple item loot graphs
 - Stats for multiple runs
 - Saves data historically
@@ -20,6 +21,7 @@ Entropia Tally is a tracking software for the MMO Entropia Universe. Initially f
 - Hunting returns
 - Hunting notes
 - Overlay
+- Session time
 
 ## Images
 
