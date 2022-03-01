@@ -18,17 +18,17 @@ The overlay is built up with flexbox in this simple structure and these generic 
     .overlay__value
 ```
 
-Each `overlay__item` also contains a unique class for the each supported data set.
+Each `overlay__item` also contains a unique class for each supported data set.
 
-- .overlay__sessionTime
-- .overlay__killCount
-- .overlay__totalLoot
-- .overlay__totalSpend
-- .overlay__returnTotal
-- .overlay__returnPercent
-- .overlay__numGlobals
-- .overlay__numHofs
-- .overlay__evadePercent
+- `.overlay__sessionTime`
+- `.overlay__killCount`
+- `.overlay__totalLoot`
+- `.overlay__totalSpend`
+- `.overlay__returnTotal`
+- `.overlay__returnPercent`
+- `.overlay__numGlobals`
+- `.overlay__numHofs`
+- `.overlay__evadePercent`
 
 ## Super basic examples which may help you get started
 
@@ -89,7 +89,7 @@ Make the label be on top
 }
 ```
 
-Custom order (need to specify order for each value available)
+Custom order (you need to specify order for EACH value available)
 
 ```css
 .overlay__killCount {
