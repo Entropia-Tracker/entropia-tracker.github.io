@@ -34,7 +34,7 @@ Each `overlay__item` also contains a unique class for each supported data set.
 
 Want to learn more about CSS? [W3 Schools](https://www.w3schools.com/css/default.asp)
 
-Increase label text size and make it bold.
+**Increase label text size and make it bold.**
 
 ```css
 .overlay__label {
@@ -43,7 +43,7 @@ Increase label text size and make it bold.
 }
 ```
 
-Increase value text size
+**Increase value text size**
 
 ```css
 .overlay__value {
@@ -51,7 +51,7 @@ Increase value text size
 }
 ```
 
-Increase both label and value text size
+**Increase both label and value text size**
 
 ```css
 .overlay__label,
@@ -60,7 +60,7 @@ Increase both label and value text size
 }
 ```
 
-Make value text color green ([Need help with hex colors?](https://www.w3schools.com/colors/colors_hexadecimal.asp))
+**Make value text color green** ([Need help with hex colors?](https://www.w3schools.com/colors/colors_hexadecimal.asp))
 
 ```css
 .overlay__label {
@@ -68,7 +68,7 @@ Make value text color green ([Need help with hex colors?](https://www.w3schools.
 }
 ```
 
-Make background color red ([Need help with hex colors?](https://www.w3schools.com/colors/colors_hexadecimal.asp))
+**Make background color red** ([Need help with hex colors?](https://www.w3schools.com/colors/colors_hexadecimal.asp))
 
 ```css
 body {
@@ -76,7 +76,7 @@ body {
 }
 ```
 
-Make the label be on top
+**Make the label be on top**
 
 ```css
 .overlay__label {
@@ -89,7 +89,7 @@ Make the label be on top
 }
 ```
 
-Custom order (you need to specify order for EACH value available)
+**Custom order** (you need to specify order for EACH value available)
 
 ```css
 .overlay__killCount {
