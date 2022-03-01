@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Overlay guide
+title: Overlay CSS guide
 permalink: /overlay/
 ---
-
-## Custom CSS guide
 
 The overlay is built up with flexbox in this simple structure and these generic classes
 
