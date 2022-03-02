@@ -5,7 +5,8 @@ permalink: /keyboard-shortcuts/
 ---
 
 Available keys for shortcuts. 
-Keep in mind that shortcuts can interfere with already registered shortcuts from other applications*
+
+*Keep in mind that shortcuts can interfere with already registered shortcuts from other applications*
 
 **Valid examples**
 ```
