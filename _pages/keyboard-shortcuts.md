@@ -7,20 +7,20 @@ permalink: /keyboard-shortcuts/
 Available keys for shortcuts. 
 Keep in mind that shortcuts can interfere with already registered shortcuts from other applications*
 
-Random valid examples
+**Valid examples**
 ```
 Ctrl+Alt+1
 Alt+Z
+Ctrl+Super+F1
 ```
 
 
 ## Available modifiers
-- Command (or Cmd for short)
 - Control (or Ctrl for short)
 - Alt
 - AltGr
 - Shift
-- Super
+- Super (the Windows key)
 - Meta
 
 ## Available key codes
