@@ -19,6 +19,7 @@ The overlay is built up with flexbox in this simple structure and these generic 
 Each `overlay__item` also contains a unique class for each supported data set.
 
 - `.overlay__sessionTime`
+- `.overlay__huntingSet`
 - `.overlay__killCount`
 - `.overlay__totalLoot`
 - `.overlay__totalSpend`
