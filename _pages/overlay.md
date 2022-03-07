@@ -18,6 +18,7 @@ The overlay is built up with flexbox in this simple structure and these generic 
 
 Each `overlay__item` also contains a unique class for each supported data set.
 
+- `.overlay__loggingToggle`
 - `.overlay__sessionTime`
 - `.overlay__huntingSet`
 - `.overlay__killCount`
@@ -28,6 +29,13 @@ Each `overlay__item` also contains a unique class for each supported data set.
 - `.overlay__numGlobals`
 - `.overlay__numHofs`
 - `.overlay__evadePercent`
+
+### Special cases
+`.overlay__sessionTime`
+- Includes a `.overlay__sessionTimeToggle` inside the `.overlay__value` for starting/stopping the logger
+
+`.overlay__huntingSet`
+- Includes a `select` inside the `.overlay__value` for weapon selection
 
 ## Super basic examples which may help you get started
 
