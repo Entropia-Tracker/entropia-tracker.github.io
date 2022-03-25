@@ -29,6 +29,8 @@ Each `overlay__item` also contains a unique class for each supported data set.
 - `.overlay__numGlobals`
 - `.overlay__numHofs`
 - `.overlay__evadePercent`
+- `.overlay__avgLootValue`
+- `.overlay__avgKillCost`
 
 ### Special cases
 `.overlay__sessionTime`
